@@ -5,7 +5,7 @@ $(document).on('ready', function () {
     }, 2000);
     setTimeout(function () {
         $('.delay').addClass('loaded');
-    }, 4500);
+    }, 5000);
     setTimeout(function () {
         $('.delay-name').addClass('loaded');
     }, 1000);

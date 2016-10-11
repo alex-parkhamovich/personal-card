@@ -1,0 +1,20 @@
+{
+  "name": "personal-card",
+  "homepage": "https://github.com/alex-parkhamovich/pusht",
+  "authors": [
+    "Alexander <lml.alexander.lml@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vivus": "^0.3.2"
+  }
+}
